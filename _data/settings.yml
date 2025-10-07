@@ -31,7 +31,9 @@ menu_settings:
       url: '/Data Stories/'
     - title: 'About'
       url: '/about/'
-
+    - title: 'Contact'
+      url: '/contact/'
+        
 
 
 #-------------------------------
