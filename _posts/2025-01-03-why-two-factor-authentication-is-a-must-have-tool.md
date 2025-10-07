@@ -1,54 +1,57 @@
 ---
 layout: post
-title: Why Two-Factor Authentication Is a Must-Have Tool
-description: Protect your digital world with practical guides and insights into cybersecurity. Whether you’re just getting started or want to deepen your knowledge, you’ll find everything from data protection basics to advanced encryption techniques, all designed to keep your information safe and private.
-date: 2025-01-03 15:01:35 +0300
+title: Exploring Common Chinese Herbs: A Guided Tour
+description: Dive into the world of traditional Chinese medicine with a short video guide. From astragalus to dried ginger, discover how these herbs are prepared and described in modern, child-friendly ways.
+date: 2025-01-03 15:01:35 +0800
 image: '/images/04.jpg'
-video_embed: https://www.youtube.com/embed/DBifQv9AYhc?si=SbgsvJEsE5Ag1mLL
-tags: [Security]
-tags_color: '#de47e2'
+video_embed: /images/v1.mp4
+tags: [TCM, Pharmacy]
+tags_color: '#3ca269'
 ---
 
-In our digital world, cybersecurity is more critical than ever. With new threats emerging daily, protecting your data and devices requires awareness and proactive measures. This guide covers essential cybersecurity practices to help you stay safe online, from password management to recognizing phishing scams.
+In our herbal education project, hands-on learning plays a key role. Today, I’m sharing a short **guided video tour** filmed at the provincial hospital’s traditional Chinese medicine (TCM) pharmacy, where I introduce several of the most common herbs used in daily prescriptions.
 
-### Protecting your digital life
+### Identifying and Describing Herbal Ingredients
 
-In an era where data is currency, security is paramount. From personal information to national secrets, the need to protect digital assets has never been greater. Cybersecurity encompasses a range of practices, technologies, and strategies designed to defend against threats in an increasingly connected world. Threats like phishing, malware, and ransomware exploit human vulnerabilities as much as technical flaws.
+In this video, I walk through the herb drawers and explain a handful of familiar names: **huangqi**, **renshen**, **shanyao**, **gouqi**, **chenpi**, and **ganjiang** — all of which we see often in classic TCM formulas.
 
 {: .note }
-Useful information that users should know, even when skimming content.
+This video is for **educational and illustrative purposes only**. Please consult licensed professionals for any medical decisions.
 
-Two-factor authentication (2FA) adds an extra layer of security, requiring a second verification step. This could be a code sent to your phone, a fingerprint scan, or a physical security key. Enable 2FA on critical accounts like email, banking, and social media, as it significantly reduces the risk of unauthorized access.
+<video controls width="100%" poster="/images/04.jpg">
+  <source src="/images/v1.mp4" type="video/mp4">
+</video>
 
-![Workspace](/images/02-1.jpg)
-*Photo by [Cayetano Gros](https://www.lummi.ai/creator/cayetanogros) on [Lummi](https://www.lummi.ai/)*
+These herbs are all introduced using simplified, age-appropriate descriptions — a method we use when teaching kids about TCM without causing confusion or promoting unsupervised use.
 
-Understanding phishing is another crucial aspect of cybersecurity. Phishing scams are designed to trick you into revealing personal information by impersonating trusted entities. Be cautious of unsolicited emails or messages that ask for sensitive information, and always double-check URLs to ensure you're on a legitimate site.
+> Slices, seeds, and peels — each herb has a shape and story worth knowing.
 
-> Firewalls, encryption, and multi-factor authentication are just a few tools used to protect sensitive data.
+For example:
+- **Huangqi (Astragalus)** — sliced; used to describe “supporting the body’s energy”
+- **Renshen (Ginseng)** — sliced; introduced as “a root that boosts strength”
+- **Shanyao (Chinese yam)** — sliced; explained as gentle support for digestion
+- **Gouqi (Goji berries)** — red, familiar; presented as a “nourishing snack herb”
+- **Chenpi (Dried tangerine peel)** — fragrant peel; tied to the “Qi flow” idea
+- **Ganjiang (Dried ginger)** — slice form; used to illustrate “warming herbs”
 
-Public Wi-Fi networks are convenient but often insecure. If you need to access the internet in public spaces, use a VPN (Virtual Private Network) to encrypt your connection and hide your IP address. VPNs protect you from potential eavesdropping, ensuring your data remains private even on untrusted networks.
+### A Gallery of the Pharmacy in Action
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/02-3.jpg" alt="Workspace" caption="A beautiful workspace" %}
-    {% include img.html src ="/images/02-4.jpg" alt="Monitors" caption="Three monitors and multitasking" %}
+    {% include img.html src ="/images/02-3.jpg" alt="Selecting herbs" caption="Choosing slices from the drawer wall" %}
+    {% include img.html src ="/images/02-4.jpg" alt="Measuring herbs" caption="Weighing exact grams of dried roots" %}
   </div>
-  <p>A gallery of stunning shots</p>
+  <p>Scenes from behind the counter</p>
 </div>
 
-Regular software updates are essential for cybersecurity. Hackers often exploit vulnerabilities in outdated software, so keeping your applications and operating system up to date ensures you’re protected against known threats. Enable automatic updates wherever possible to ensure you’re always protected.
+Public understanding of Chinese herbs is often limited to packaging or brand names. But through this project, I want to **reconnect daily herbal practices with real textures, forms, and preparation steps** — especially for younger learners who might only see medicine as something hidden in bottles.
 
-### Technology plays a significant role in security
+### Teaching Through Story and Practice
 
-Ethical hacking and penetration testing highlight the importance of proactive measures. By identifying and addressing vulnerabilities before malicious actors can exploit them, security professionals help build robust defenses.
-
-However, security is a shared responsibility. Developers must write secure code, users must follow best practices, and organizations must invest in comprehensive cybersecurity strategies. Together, these efforts create a safer digital landscape.
+I filmed this video to complement my in-person storytelling sessions, where children are invited to guess which herbs are slices, fruits, or peels. They touch mock samples, draw their own “herb profile cards,” and sometimes write little “recipes” based on fictional patients (like “a panda with no energy” 🐼).
 
 {: .tip }
-Understanding phishing is another crucial aspect of cybersecurity
-
-The human factor remains a critical aspect of security. Social engineering attacks often target emotions and trust rather than technical systems. This underscores the need for training and awareness campaigns to build a culture of security.
+We always include **safety tips**, **avoid therapeutic claims**, and frame herbs as part of **culture and learning**, not treatment.
 
 ```js
   $('.top').click(function () {
@@ -61,6 +64,3 @@ The human factor remains a critical aspect of security. Social engineering attac
       $('.top').removeClass("top-active");
     };
   });
-```
-
-Security also intersects with privacy. Protecting user data requires not just strong defenses but also ethical considerations. Transparency in data handling and compliance with regulations like GDPR are essential components of modern cybersecurity. As technology evolves, so do threats. From AI-driven attacks to quantum computing challenges, the field of security is dynamic and ever-changing. Staying informed and adaptive is the key to staying protected.
