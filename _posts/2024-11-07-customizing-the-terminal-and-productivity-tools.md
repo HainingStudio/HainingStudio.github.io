@@ -40,6 +40,3 @@ In this project, we avoid complex medical terms and instead focus on **function-
 
 {: .tip }
 We always accompany these metaphors with clear safety rules: herbs are **not snacks**, and **never used without guidance**.
-
-    };
-  });
