@@ -8,7 +8,7 @@ image: '/images/03-1.jpg'
 Hi, I’m Haining 👋  
 A student, herbal storyteller, and curious learner with a mission to make traditional Chinese medicine (TCM) more accessible to young minds.
 
----
+--- 
 
 ## My Journey: From Pharmacy Drawers to Digital Platforms
 
