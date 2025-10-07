@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Coderon
-description: Coderon is a super modern and unique Jekyll blog theme
+title: Haining
+description: A student-led public service project that helps children explore traditional Chinese herbs with stories, visuals, and data.
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
 
@@ -42,7 +42,7 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Alex Dias
+  author_name: Haining Wang
   author_avatar: /images/01-1.jpg
 
 
@@ -51,12 +51,12 @@ author:
 hero:
   enable: true
   hero_avatar: /images/01-1.jpg
-  hero_title: Hi! I’m Alex 👋
-  hero_subtitle: A digital explorer, coder, and Linux advocate
+  hero_title: Hi! I’m Haining 👋
+  hero_subtitle: Student, herbal storyteller, and community explorer
   hero_description: |
-    I’m a digital explorer, coder, and Linux advocate. This blog is my personal knowledge base on productivity, programming, and the freedom of information.
+    I’m the founder of a public service project that bridges traditional Chinese medicine and children’s education. Inspired by my family’s work in the provincial hospital pharmacy, I help young learners explore the world of herbs in a safe, engaging, and science‑informed way.
 
-    Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+    Through stories, visuals, and data, I turn ancient knowledge into modern conversations — from interactive herb profiles and field vlogs to data visualizations of children’s curiosity. This site is a living archive of that journey. Dive in and explore 🌱
   hero_image: /images/01.jpg
   hero_image_caption: My creative space, where masterpieces are born
   hero_button_text: Let’s Work Together
