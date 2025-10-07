@@ -53,10 +53,10 @@ hero:
   hero_avatar: /images/01-1.jpg
   hero_title: Hi! I’m Haining
   hero_subtitle: Student, herbal storyteller, and community explorer
-  hero_description: >
-    I’m a high school student passionate about sharing traditional Chinese medicine with young learners.  
-    Inspired by my family’s work at the provincial hospital, I created this project to help kids understand herbs through stories, vlogs, and data visualizations.  
-    This is where tradition meets curiosity 🌱
+  hero_description: |
+    I’m a high school student passionate about traditional Chinese medicine and children’s education. This site is a personal project to share herbal knowledge through stories, vlogs, and visuals.
+
+    Here, I explore how ancient wisdom meets modern learning — making herbs approachable for kids using creative tools and real-life experiences. Dive in and discover more 🌿
   hero_image: /images/01.jpg
   hero_image_caption: My creative space, where masterpieces are born
   hero_button_text: Let’s Work Together
