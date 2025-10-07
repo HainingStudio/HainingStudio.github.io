@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Behind the Counter: My Learning at a Traditional Chinese Pharmacy
-description: Measuring herbs, assisting pharmacists, and learning from centuries of knowledge — my summer internship brought ancient Chinese medicine to life.
-date: 2025-01-04 15:01:35 +0300
+title: "Behind the Counter: My Internship at a Traditional Chinese Pharmacy"
+description: "Measuring herbs, assisting pharmacists, and learning from centuries of knowledge — my summer internship brought ancient Chinese medicine to life."
+date: 2025-08-04 15:01:35 +0300
 image: '/images/03-1.jpg'
 tags: [Traditional Medicine]
 toc: true
