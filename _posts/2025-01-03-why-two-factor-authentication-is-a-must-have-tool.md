@@ -3,7 +3,7 @@ layout: "post"
 title: "Exploring Common Chinese Herbs: A Guided Tour"
 description: "A kid-friendly video tour of common Chinese herbs (astragalus, ginseng, yam, goji, tangerine peel, dried ginger) with simple, age‑appropriate explanations."
 date: "2025-07-03 15:01:35 +0800"
-image: "/images/04.jpg"
+image: "/images/v1m.jpg"
 video_embed: "/images/v1.mp4"
 tags: ["TCM", "Pharmacy"]
 tags_color: "#3ca269"
@@ -18,10 +18,6 @@ In this video, I walk through the herb drawers and explain a handful of familiar
 
 {: .note }
 This video is for **educational and illustrative purposes only**. Please consult licensed professionals for any medical decisions.
-
-<video controls width="100%" poster="/images/04.jpg">
-  <source src="/images/v1.mp4" type="video/mp4">
-</video>
 
 These herbs are all introduced using simplified, age-appropriate descriptions — a method we use when teaching kids about TCM without causing confusion or promoting unsupervised use.
 
@@ -53,15 +49,3 @@ I filmed this video to complement my in-person storytelling sessions, where chil
 
 {: .tip }
 We always include **safety tips**, **avoid therapeutic claims**, and frame herbs as part of **culture and learning**, not treatment.
-
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
