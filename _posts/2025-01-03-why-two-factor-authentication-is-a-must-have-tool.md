@@ -1,12 +1,13 @@
 ---
-layout: post
-title: Exploring Common Chinese Herbs: A Guided Tour
-description: Dive into the world of traditional Chinese medicine with a short video guide. From astragalus to dried ginger, discover how these herbs are prepared and described in modern, child-friendly ways.
-date: 2025-01-03 15:01:35 +0800
-image: '/images/04.jpg'
-video_embed: /images/v1.mp4
-tags: [TCM, Pharmacy]
-tags_color: '#3ca269'
+layout: "post"
+title: "Exploring Common Chinese Herbs: A Guided Tour"
+description: "A kid-friendly video tour of common Chinese herbs (astragalus, ginseng, yam, goji, tangerine peel, dried ginger) with simple, age‑appropriate explanations."
+date: "2025-07-03 15:01:35 +0800"
+image: "/images/04.jpg"
+video_embed: "/images/v1.mp4"
+tags: ["TCM", "Pharmacy"]
+tags_color: "#3ca269"
+toc: true
 ---
 
 In our herbal education project, hands-on learning plays a key role. Today, I’m sharing a short **guided video tour** filmed at the provincial hospital’s traditional Chinese medicine (TCM) pharmacy, where I introduce several of the most common herbs used in daily prescriptions.
