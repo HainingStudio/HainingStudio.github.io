@@ -2,59 +2,102 @@
 layout: page
 title: About Me
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/03-1.jpg'
 ---
 
-Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
+Hi, I’m Haining 👋  
+A student, herbal storyteller, and curious learner with a mission to make traditional Chinese medicine (TCM) more accessible to young minds.
 
-{: .note }
-Even the most experienced developers don't know everything
+---
 
-Over the years, my curiosity only deepened. I became a coder, learning languages like Python, JavaScript, and C++, and fell in love with the sheer power of programming. For me, coding isn’t just a skill; it’s a language for bringing ideas to life. The thrill of debugging, the satisfaction of building something from scratch, and the endless potential of code keep me motivated every day. Coding lets me shape my vision into reality, one line at a time.
+## My Journey: From Pharmacy Drawers to Digital Platforms
 
-> Curiosity fuels my code, Linux keeps me grounded, and every bug is just a puzzle waiting to be solved.
+I grew up around the scents, textures, and quiet rhythms of a traditional Chinese pharmacy. My parents worked in the dispensary of a provincial hospital, and from a young age, I was fascinated by the wooden drawers filled with unfamiliar names and earthy smells. Each herb had a story. Each formula carried a memory. But I also realized that many children—my peers included—found this world confusing, mysterious, or simply invisible.
 
-Linux was a turning point. Once I got into Linux, I realized how transformative open-source software could be. I started with Ubuntu, dabbled in Debian, and eventually moved on to Arch. Linux taught me how customizable, flexible, and free technology could truly be. It’s more than an operating system—it’s a philosophy that resonates with my love for exploration and problem-solving. My Linux setup is always evolving, whether I'm configuring a new window manager or experimenting with terminal commands. It’s like a puzzle I never get tired of solving.
+This project began not as a plan, but as a response. A response to the curiosity I saw in younger kids who visited the pharmacy with their grandparents. A response to the lack of visual, child-friendly resources about Chinese herbal culture. And a response to the disconnect between generations when it came to understanding health, tradition, and science.
 
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/01-4.jpg" alt="Keyboard" caption="The symphony of keys" %}
-    {% include img.html src ="/images/01-5.jpg" alt="Keyboard" caption="Where every keystroke brings ideas to life" %}
-    {% include img.html src ="/images/01-6.jpg" alt="Keyboard" caption="The quiet hum of creativity" %}
-    {% include img.html src ="/images/01-7.jpg" alt="Keyboard" caption="Ready to transform thoughts into text" %}
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+---
 
-Gaming is another integral part of my story. Growing up with video games, I’ve seen firsthand how gaming has evolved from simple pixelated platforms to immersive, narrative-driven experiences. My love for gaming goes beyond just playing; I enjoy analyzing game mechanics, studying character design, and understanding the technology behind these virtual worlds. Indie games hold a special place in my heart because they represent the creativity and innovation of small teams that pour their souls into making something unique.
+## What This Project Is — And Isn’t
 
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
+This site is a **bilingual, multimedia resource** designed to introduce children and families to Chinese herbal medicine through **stories, videos, illustrations, and interactive data**.
 
-When I’m not coding or gaming, I’m diving into the world of comics and sci-fi movies. Both are more than hobbies—they’re ways to explore the “what ifs” of life. Comics taught me that even fictional heroes have real struggles, and sci-fi movies sparked my imagination about the future.
+It’s not a textbook.  
+It’s not a medical guide.  
+And it’s definitely not a place for miracle claims.
 
-## The Mind Behind the Keyboard
+Instead, it’s a sandbox of learning — a place where questions are encouraged, mistakes are part of the process, and ancient knowledge meets modern methods.
 
-Building this blog has been a passion project. It’s a place where I can share my journey, document what I learn, and connect with people who have the same interests. I’ve written countless tutorials, tech tips, and reviews because I want to create a resource I wish I had when I was starting out. The tech world can be intimidating, but it doesn’t have to be. Thоrough this blog, I hope to make technology accessible, fun, and rewarding for people of all skill levels.
+---
 
-![Keyboard]({{site.baseurl}}/images/01-3.jpg)
-*Photo by [Pablo Stanley](https://www.lummi.ai/photo/contemplative-technicolor-workstation-sonrb) on [Lummi](https://www.lummi.ai/)*
+## What I Believe
 
-Looking back, I see that each step in my journey—whether it was installing my first Linux distro, debugging my first program, or exploring cybersecurity—has shaped me into who I am today.
+I believe in curiosity.  
+I believe in learning by doing.  
+I believe that even five-year-olds deserve honest, clear, and beautiful explanations of the world around them.
 
-The geek in me thrives on discovery, and as I explore new topics and skills, I’m reminded that there’s always more to learn. That’s the beauty of the tech world: no matter how much you know, there’s always a new challenge or a new horizon waiting.
+I also believe that tradition doesn’t have to mean stagnation. Chinese medicine is centuries old, but that doesn’t mean it belongs only in dusty books or hospital shelves. It can live in stories, in classrooms, in short videos and colorful charts — if we’re willing to reimagine it.
 
-{: .important }
-Automate repetitive tasks. If you find yourself doing the same task multiple times, it's a sign you should automate it.
+---
 
-Thank you for being here and for sharing in this journey with me. This blog is more than just articles and posts; it’s a community of curious, passionate individuals who love technology, creativity, and the endless pursuit of knowledge. Whether you’re a fellow Linux enthusiast, a developer looking for new ideas, or just someone curious about the digital world, I’m excited to connect and share this space with you.
+## How I Work
+
+I design every part of this project with three principles in mind:
+
+** 1. Child-Friendly First**  
+All content is crafted to be safe, accessible, and interesting for young readers. I use simple metaphors, warm visuals, and avoid overwhelming medical jargon.
+
+** 2. Grounded in Science**  
+I respect traditional practices, but I also believe in evidence, transparency, and critical thinking. That’s why I always mark safety tips, clarify what we *don’t* know, and avoid making health promises.
+
+** 3. Made with Data**  
+Where possible, I use surveys, classroom logs, and visualizations to track how children respond to different herbs, themes, and lessons. I believe learning can (and should) be measurable in joyful ways.
+
+---
+
+## What I’ve Done So Far
+
+- Interned at the **Guangdong Provincial Hospital of Traditional Chinese Medicine**, learning herb classification and real-world dispensing techniques
+- Shadowed pharmacists and created photo logs of herb preparation and labeling
+- Designed bilingual **Herb Profile** templates for use in primary school activities
+- Built a survey to track **children’s recognition of common herbs** before and after storytelling sessions
+- Produced vlog episodes where I walk kids through real herbal drawers and explain the use of a single plant, step by step
+- Developed this Jekyll-powered website as both a personal archive and a public resource
+
+---
+
+## What’s Next
+
+I plan to keep updating this platform with:
+
+- **More herbal profiles**, including seasonal ingredients and region-specific plants  
+- **Data stories**, visualizing things like “Which herbs do kids remember best?” or “What do children think herbs taste like?”
+- **Guest features**, where I interview pharmacists, teachers, and other young learners about their views on tradition and health
+- **Offline workshops**, in collaboration with schools and community centers
+
+This isn’t just a school project — it’s a long-term journey I want to continue through high school, college, and beyond.
+
+---
+
+## Ethics & Safety Statement
+
+All content on this website is for **educational purposes only**.  
+It is **not medical advice**, and nothing here should replace professional consultation.
+
+I take ethics seriously. That means:
+- Avoiding exaggerated claims  
+- Being transparent about sources  
+- Respecting cultural context without romanticizing it  
+- Prioritizing safety, consent, and child-appropriate language
+
+---
+
+## Thank You 🌿
+
+If you’ve read this far, thank you.
+
+You’re now part of a growing circle of people who believe that tradition and technology don’t have to live in separate worlds. That children can understand complex ideas if we trust them. And that learning about herbal medicine can be as joyful as it is respectful.
+
+Let’s keep learning together.
+
+— Haining
