@@ -3,7 +3,7 @@ layout: post
 title: How I Prepare Herbs in the Pharmacy
 description: A glimpse into my daily practice selecting and measuring Chinese herbs for community education and service.
 date: 2025-01-05 15:01:35 
-image: '/images/02-5.jpg'
+image: '/images/02-4.jpg'
 tags: [TCM, Community]
 tags_color: '#4643ec'
 ---
@@ -12,7 +12,7 @@ As part of my herbal education project, I regularly visit my family's pharmacy t
 
 My work involves everything from recognizing raw herbs to weighing exact dosages using traditional Chinese scales. I take part in real dispensing sessions, shadow licensed pharmacists, and document the process to help kids and teens better understand Chinese medicine through visual storytelling.
 
-![Weighing herbs](/images/02-5.jpg)
+![Weighing herbs]
 
 *Learning to balance precision and speed when measuring sliced root herbs for a prescription.*
 
