@@ -44,13 +44,13 @@ I also believe that tradition doesn’t have to mean stagnation. Chinese medicin
 
 I design every part of this project with three principles in mind:
 
-** 1. Child-Friendly First**  
+1. Child-Friendly First  
 All content is crafted to be safe, accessible, and interesting for young readers. I use simple metaphors, warm visuals, and avoid overwhelming medical jargon.
 
-** 2. Grounded in Science**  
+2. Grounded in Science
 I respect traditional practices, but I also believe in evidence, transparency, and critical thinking. That’s why I always mark safety tips, clarify what we *don’t* know, and avoid making health promises.
 
-** 3. Made with Data**  
+3. Made with Data  
 Where possible, I use surveys, classroom logs, and visualizations to track how children respond to different herbs, themes, and lessons. I believe learning can (and should) be measurable in joyful ways.
 
 ---
