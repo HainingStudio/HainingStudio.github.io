@@ -27,16 +27,12 @@ menu_settings:
       url: '/'
     - title: 'Videos'
       url: '/videos/'
-    - title: 'Archive'
-      url: '/archive/'
+    - title: 'Data Stories'
+      url: '/Data Stories/'
     - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'About'
+      url: '/about/'
+
 
 
 #-------------------------------
@@ -84,23 +80,9 @@ logos:
 # Section Blog Settings
 blog:
   enable: true
-  blog_title: The Binary Journal
+  blog_title: Herb & Story
 
 
-#-------------------------------
-# Tags Section Settings
-tags_section:
-  enable: true
-  tags_section_title: Hacker’s Haven
-  tags:
-    - tag: "Programming"
-      image: "/images/20.jpg"
-    - tag: "Linux"
-      image: "/images/21.jpg"
-    - tag: "Productivity"
-      image: "/images/22.jpg"
-    - tag: "Security"
-      image: "/images/23.jpg"
 
 
 #-------------------------------
@@ -110,44 +92,23 @@ videos_section:
   videos_section_title: Latest Videos
 
 
-#-------------------------------
-# Gallery Section Settings
-gallery_section:
-  enable: true
-  gallery_section_title: Byte Frame
-  gallery:
-    gallery_images:
-      - alt: 'Rest'
-        url: '/images/100.jpg'
-        caption: 'Small steps lead to big results.'
-      - alt: 'Lifestyle'
-        url: '/images/101.jpg'
-        caption: 'A peaceful moment captured during a serene evening.'
-      - alt: 'Hobby'
-        url: '/images/102.jpg'
-        caption: 'True friends are like stars — they shine brightest when the world feels dark.'
-      - alt: 'Computers'
-        url: '/images/103.jpg'
-        caption: 'Every click opens a new chapter in an endless story.'
-      - alt: 'Games'
-        url: '/images/104.jpg'
-        caption: 'Every level is a new opportunity to test your limits.'
 
 
 #-------------------------------
 # Newsletter Settings
 mailchimp:
   enable: true
-  mailchimp_title: Stay inspired weekly ✌️
-  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_input_text: Your email address...
-  mailchimp_button_text: Join Now
+  mailchimp_title: Learn Herbs, One Leaf at a Time 🍃
+  mailchimp_description: Each month, we share gentle stories, hands-on herb guides, and illustrated lessons designed to help kids and families connect with traditional Chinese medicine in a modern, friendly way.
+  mailchimp_identifier: https://hainingstudio.github.io/
+  mailchimp_input_text: Enter your email to get updates 🌱
+  mailchimp_button_text: Subscribe for Stories
+
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+footer_description: I share stories, knowledge, and interactive tools that help children and families explore the world of traditional Chinese medicine in a safe, engaging, and science-informed way. This project is my way of giving back—rooted in family, guided by curiosity, and open to all who care.
 
 
 #-------------------------------
