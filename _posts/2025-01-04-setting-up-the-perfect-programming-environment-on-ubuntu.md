@@ -1,61 +1,36 @@
 ---
 layout: post
-title: Setting Up the Perfect Programming Environment on Ubuntu
-description: Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.
+title: Behind the Counter: My Learning at a Traditional Chinese Pharmacy
+description: Measuring herbs, assisting pharmacists, and learning from centuries of knowledge — my summer internship brought ancient Chinese medicine to life.
 date: 2025-01-04 15:01:35 +0300
-image: '/images/07.jpg'
-tags: [Linux]
+image: '/images/03-1.jpg'
+tags: [Traditional Medicine]
 toc: true
 ---
 
-Linux is more than just an operating system – it’s a philosophy of openness, collaboration, and adaptability. Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.
+Stepping into a traditional Chinese medicine (TCM) pharmacy felt like stepping back in time — drawers labeled with herbs I could barely pronounce, wooden counters worn smooth by generations of healers. As part of a summer internship at the **Guangdong Provincial Hospital of Traditional Chinese Medicine**, I had the rare opportunity to explore this living tradition from the inside out.
 
-### Upgrade Ubuntu desktop
+![Internship Counter]
+*At the weighing station, learning how accuracy matters when preparing formulas.*
 
-What sets Linux apart is its versatility. Its modular architecture allows users to tailor the system to their needs, whether for a minimalist setup on a Raspberry Pi or a fully-fledged enterprise server. Distributions like Ubuntu, Fedora, and Arch cater to diverse audiences, each offering unique strengths and features.
+My main tasks were deceptively simple: locating the right herbs from hundreds of wooden drawers, measuring dosages using classic metal scales, and assisting pharmacists in preparing prescriptions for patients. But each task opened a window into centuries of accumulated knowledge — and responsibility. I quickly learned that one misplaced herb or an extra gram could affect the outcome of a treatment.
 
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
-
-The open-source nature of Linux fosters a thriving community. Developers worldwide contribute to its continuous improvement, ensuring it remains cutting-edge and secure. This collaborative model also encourages learning, with abundant resources available for users of all skill levels.
-
-![Workspace](/images/02-1.jpg)
-*Photo by [Cayetano Gros](https://www.lummi.ai/creator/cayetanogros) on [Lummi](https://www.lummi.ai/)*
-
-Linux is a favorite among tech enthusiasts and professionals alike. Its robust command-line tools provide unparalleled control, while its stability and security make it ideal for critical applications. It’s no surprise that Linux dominates the server market and underpins the cloud infrastructure we rely on daily. Virtualenv allows you to create isolated Python environments for different projects, preventing conflicts between dependencies.
-
-> The true test of AI isn’t how advanced it becomes, but how well we manage its impact on humanity.
-
-For beginners, Linux can seem daunting. However, its flexibility means there’s a distribution for everyone, and the learning curve is well worth the effort. With Linux, you’re not just using an operating system—you’re part of a global movement advocating for freedom and innovation.
+> Traditional medicine teaches patience — both in healing and in learning.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-3">
-    {% include img.html src ="/images/02-3.jpg" alt="Workspace" caption="A beautiful workspace" %}
-    {% include img.html src ="/images/02-4.jpg" alt="Monitors" caption="Three monitors and multitasking" %}
-    {% include img.html src ="/images/02-5.jpg" alt="Headphones" caption="Testing a new headphones" %}
+    {% include img.html src ="/images/03-2.jpg" alt="Pharmacist Collaboration" caption="Learning preparation techniques from a senior pharmacist" %}
+    {% include img.html src ="/images/03-3.jpg" alt="Entrance of TCM hospital" caption="Outside the Guangdong Provincial Hospital of TCM" %}
+    {% include img.html src ="/images/03-4.jpg" alt="Hands-on practice" caption="Getting familiar with the textures and types of dried herbs" %}
   </div>
-  <p>A gallery of stunning shots</p>
+  <p>A glimpse into everyday scenes behind the pharmacy counters</p>
 </div>
 
-Linux has also found a place in education and personal computing. Schools and universities often use Linux for its cost-effectiveness and accessibility. Meanwhile, tech-savvy individuals enjoy customizing Linux desktops with environments like GNOME, KDE, or XFCE to match their workflow preferences.
+This wasn’t just about herbs. It was about **understanding the trust** people place in medicine — especially parents bringing herbal blends for their children, or elderly patients sharing stories while waiting for their prescriptions. I saw firsthand how traditional knowledge, when handled with care and humility, still thrives in a modern clinical setting.
 
-### Linux also supports multiple programming languages
-
-The future of Linux is bright. As technologies like IoT, AI, and containerization grow, Linux remains at the forefront. Tools like Docker and Kubernetes, both heavily reliant on Linux, illustrate its central role in modern development practices.
+Whether sorting through slices of *angelica root* or watching a pharmacist tailor a formula based on someone’s body type, I felt part of something larger — a legacy of healing, preserved not in books alone but in daily hands-on practice.
 
 {: .note }
-Linux is more than just an operating system – it’s a philosophy of openness, collaboration, and adaptability.
+Modern healthcare and ancient practice aren’t mutually exclusive — they complement each other more than we imagine.
 
-A fully optimized Linux environment will streamline your coding and make complex tasks easier to manage. Whether you’re a beginner or an experienced developer, Ubuntu offers a stable, customizable environment to support all stages of your programming journey.
-
-For many developers, Linux provides an unmatched environment for coding, customization, and open-source contribution. Among the Linux distributions, Ubuntu stands out for its user-friendliness and extensive support for software development. In this guide, we’ll walk through the essentials of setting up a programming environment on Ubuntu, from installing basic tools to optimizing workflows. This setup can be helpful when working on complex projects that require monitoring logs or running different services in parallel.
+This experience taught me not only practical skills but also how to **observe, listen, and respect** systems of knowledge different from what I was used to. I hope to continue exploring how tradition and science can work hand in hand to make healthcare more holistic and human.
