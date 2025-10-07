@@ -29,7 +29,6 @@ menu_settings:
       url: '/videos/'
     - title: 'Data Stories'
       url: '/Data Stories/'
-    - title: 'Pages'
     - title: 'About'
       url: '/about/'
 
