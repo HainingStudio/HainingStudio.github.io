@@ -1,8 +1,7 @@
 ---
 layout: contact
 title: Get In Touch
-description: Coderon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+description: A bilingual contact & design brief form for a student-led TCM culture project. 数据与故事连接传统与现代。
 permalink: /contact/
-image: '/images/40.jpg'
-image_caption: 'Photo by [Pablo Stanley](https://www.lummi.ai/creator/pablostanley) / [Lummi](https://www.lummi.ai/)'
+image: '/images/03-1.jpg'
 ---
