@@ -1,0 +1,2983 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.15.1.json",
+  "config": {
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial"
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 16
+    }
+  },
+  "data": {
+    "name": "data-3eb71050ee1bba4a9180356d1bb666f8"
+  },
+  "datasets": {
+    "data-3eb71050ee1bba4a9180356d1bb666f8": [
+      {
+        "Chinese_name": "\u77ee\u5730\u8336",
+        "English_name": "Japanese Ardisia Herb",
+        "Pinyin_name": "Ai Di Cha",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u827e\u53f6",
+        "English_name": "leaf of Argy Wormwood",
+        "Pinyin_name": "Ai Ye",
+        "nature": "warm",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5b89\u606f\u9999",
+        "English_name": "Benzoin",
+        "Pinyin_name": "An Xi Xiang",
+        "nature": "neutral",
+        "part_used": "balsam",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u516b\u89d2\u8334\u9999",
+        "English_name": "Chinese Star Anise",
+        "Pinyin_name": "Ba Jiao Hui Xiang",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5df4\u8c46",
+        "English_name": "Croton Fruit",
+        "Pinyin_name": "Ba Dou",
+        "nature": "hot",
+        "part_used": "dried seed",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u767d\u6241\u8c46",
+        "English_name": "White Hyacinth Bean",
+        "Pinyin_name": "Bai Bian Dou",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u9644\u5b50",
+        "English_name": "rhizome of Giant Typhonium",
+        "Pinyin_name": "Bai Fu Zi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u679c",
+        "English_name": "Ginkgo seed",
+        "Pinyin_name": "Bai Guo",
+        "nature": "neutral",
+        "part_used": "nut",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u82b1\u86c7\u820c\u8349",
+        "English_name": "all - grass of Spreading Hedyotis",
+        "Pinyin_name": "Bai Hua She She Cao",
+        "nature": "cold",
+        "part_used": "whole herb with root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u8539",
+        "English_name": "root of Japanese Ampelopsis ",
+        "Pinyin_name": "Bai Lian",
+        "nature": "cold",
+        "part_used": "tuberoid",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u767d\u8305\u6839",
+        "English_name": "Lalang Grass Rhizome",
+        "Pinyin_name": "Bai Mao Gen",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u524d",
+        "English_name": "Cynchum root",
+        "Pinyin_name": "Bai Qian",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u767d\u828d",
+        "English_name": "White peony root",
+        "Pinyin_name": "Bai Shao",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u767d\u672f",
+        "English_name": "rhizome of Largehead Atractylodes",
+        "Pinyin_name": "Bai Shu",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767d\u5934\u7fc1",
+        "English_name": "Root of Chinese Pulsatilla",
+        "Pinyin_name": "Bai Tou Weng",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u767d\u8587",
+        "English_name": "Blackend Swallowwort Root",
+        "Pinyin_name": "Bai Wei",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u767d\u82b7",
+        "English_name": "Dahurian Angelica Root",
+        "Pinyin_name": "Bai Zhi",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u767e\u90e8",
+        "English_name": "Root of Japanese Stemo",
+        "Pinyin_name": "Bai Bu",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u767e\u5408",
+        "English_name": "Bulb of Greenish Lily",
+        "Pinyin_name": "Bai He",
+        "nature": "cold",
+        "part_used": "bulb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u67cf\u5b50\u4ec1",
+        "English_name": "seed of Chinese Arborvitae",
+        "Pinyin_name": "Bai Zi Ren",
+        "nature": "neutral",
+        "part_used": "kernel",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8d25\u9171\u8349",
+        "English_name": "All - grass of Dahurian Patrinia",
+        "Pinyin_name": "Bai Jiang Cao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u677f\u84dd\u6839",
+        "English_name": "Root of Dyers Woad.",
+        "Pinyin_name": "Ban Lan Gen",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u534a\u590f",
+        "English_name": "tuber of Pinellia",
+        "Pinyin_name": "Ban Xia",
+        "nature": "warm",
+        "part_used": "tuber",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u534a\u679d\u83b2",
+        "English_name": "all - grass of Barbed Skullcap",
+        "Pinyin_name": "Ban Zhi Lian",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8584\u8377",
+        "English_name": "Mentha, Peppermint",
+        "Pinyin_name": "Bo He",
+        "nature": "cool",
+        "part_used": "dried aerial parts",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5317\u6c99\u53c2",
+        "English_name": "root of Coastal Glehnia",
+        "Pinyin_name": "Bei Sha Can",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u84d6\u9ebb\u5b50",
+        "English_name": "Castor Seed",
+        "Pinyin_name": "Bi Ma Zi",
+        "nature": "neutral",
+        "part_used": "ripe seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8439\u84c4",
+        "English_name": "all-grass of common knotgrass",
+        "Pinyin_name": "Pian Xu",
+        "nature": "cold",
+        "part_used": "dried aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6241\u8c46\u82b1",
+        "English_name": "flower of Hyacinth Dolichos",
+        "Pinyin_name": "Bian Dou Hua",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u69df\u6994",
+        "English_name": "areca seed",
+        "Pinyin_name": "Bin Lang",
+        "nature": "warm",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u51b0\u7247",
+        "English_name": "Borneol",
+        "Pinyin_name": "Bing Pian",
+        "nature": "cold",
+        "part_used": "resin",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82cd\u8033\u5b50",
+        "English_name": "fruit of Siberian Cockleblur",
+        "Pinyin_name": "Cang Er Zi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82cd\u672f",
+        "English_name": "Rhizome of Swordlike Atractylodes",
+        "Pinyin_name": "Cang Shu",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8349\u679c",
+        "English_name": "Tsaoko",
+        "Pinyin_name": "Cao Guo",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u8349\u4e4c",
+        "English_name": "Kusnezoff Monkshood Root",
+        "Pinyin_name": "Cao Wu",
+        "nature": "hot",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u4fa7\u67cf\u53f6",
+        "English_name": "leafy twigs of Oriental Arborvitae",
+        "Pinyin_name": "Ce Bai Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u67f4\u80e1",
+        "English_name": "root of Chinese Thorowax",
+        "Pinyin_name": "Chai Hu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8749\u8715",
+        "English_name": "Cicada Slough",
+        "Pinyin_name": "Chan Shui",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5e38\u5c71",
+        "English_name": "root of antifebrile Dichroa",
+        "Pinyin_name": "Chang Shan",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8f66\u524d\u8349",
+        "English_name": "all-grass of Rippleseed plantain",
+        "Pinyin_name": "Che Qian Cao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8f66\u524d\u5b50",
+        "English_name": "seed of Asiatic pantain",
+        "Pinyin_name": "Che Qian Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6c89\u9999",
+        "English_name": "Oily wood of Agalloch Eaglewood",
+        "Pinyin_name": "Chen Xiang",
+        "nature": "warm",
+        "part_used": "resinous wood",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9648\u76ae",
+        "English_name": "Dried Tangerine Peel",
+        "Pinyin_name": "Chen Pi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8d64\u828d",
+        "English_name": "Red Peony root",
+        "Pinyin_name": "Chi Shao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8d64\u5c0f\u8c46",
+        "English_name": "Rice Bean",
+        "Pinyin_name": "Chi Xiao Dou",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u833a\u851a\u5b50",
+        "English_name": "Motherwort Fruit",
+        "Pinyin_name": "Chong Wei Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u81ed\u68a7\u6850",
+        "English_name": "Glorybower leaf, Clerodendron leaf",
+        "Pinyin_name": "Chou Wu Tong",
+        "nature": "cool",
+        "part_used": "leaf",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5ddd\u8d1d\u6bcd",
+        "English_name": "Bulb of Tendrilleaf Fritillary",
+        "Pinyin_name": "Chuan Bei Mu",
+        "nature": "cold",
+        "part_used": "bulb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5ddd\u695d\u5b50",
+        "English_name": "Szechwan Chiberry Fruit",
+        "Pinyin_name": "Chuan Lian Zi",
+        "nature": "cold",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5ddd\u725b\u819d",
+        "English_name": "root of Medicil cyathula",
+        "Pinyin_name": "Chuan Niu Xi",
+        "nature": "neutral",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5ddd\u4e4c",
+        "English_name": "root of Common Monkshood",
+        "Pinyin_name": "Chuan Wu",
+        "nature": "hot",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5ddd\u828e",
+        "English_name": "Chuanxiong rhizome, Szechuan lovage root",
+        "Pinyin_name": "Chuan Qiong",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u7a7f\u5c71\u9f99",
+        "English_name": "Ningpo Yam Rhizome ",
+        "Pinyin_name": "Chuan Shan Long",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7a7f\u5fc3\u83b2",
+        "English_name": "all-grass of Common Androgrphis",
+        "Pinyin_name": "Chuan Xin Lian",
+        "nature": "cold",
+        "part_used": "dried aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5782\u76c6\u8349",
+        "English_name": "all - grass of Stringy stonecrop",
+        "Pinyin_name": "Chui Pen Cao",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u693f\u76ae",
+        "English_name": "Ailanthus bark, Tree of heaven bark",
+        "Pinyin_name": "Chun Pi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8471\u767d",
+        "English_name": "Allium bulb, Wild scallion, Chinese green onion",
+        "Pinyin_name": "Cong Bai",
+        "nature": "warm",
+        "part_used": "fresh bulb",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5927\u9ec4",
+        "English_name": "root and rhziome of Sorrel Rhubarb",
+        "Pinyin_name": "Da Huang",
+        "nature": "cold",
+        "part_used": "root and rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5927\u84df",
+        "English_name": "all-grass of Thistle",
+        "Pinyin_name": "Da Ji",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5927\u9752\u53f6",
+        "English_name": "Isatis leaf",
+        "Pinyin_name": "Da Qing Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5927\u849c",
+        "English_name": "Garlic",
+        "Pinyin_name": "Da Suan",
+        "nature": "warm",
+        "part_used": "bulb",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5927\u8840\u85e4",
+        "English_name": "Stem of Sargentgloryvine",
+        "Pinyin_name": "Da Xie Teng",
+        "nature": "neutral",
+        "part_used": "stem",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5927\u67a3",
+        "English_name": "Jujube Chinese date",
+        "Pinyin_name": "Da Zao",
+        "nature": "warm",
+        "part_used": "ripe fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u4e39\u53c2",
+        "English_name": "root of Ligulilobe sage",
+        "Pinyin_name": "Dan Can",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6de1\u8c46\u8c49",
+        "English_name": "Fermented Soybean",
+        "Pinyin_name": "Dan Dou Chi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5f53\u5f52",
+        "English_name": "root of Chinese Angelica",
+        "Pinyin_name": "Dang Gui",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u515a\u53c2",
+        "English_name": "root Pilose Asiabell",
+        "Pinyin_name": "Dang Can",
+        "nature": "neutral",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u706f\u5fc3\u8349",
+        "English_name": "pith of Common Rush",
+        "Pinyin_name": "Deng Xin Cao",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5730\u67ab\u76ae",
+        "English_name": "Difengpi Bark",
+        "Pinyin_name": "Di Feng Pi",
+        "nature": "warm",
+        "part_used": "bark",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5730\u80a4\u5b50",
+        "English_name": "fruit of Belvedere",
+        "Pinyin_name": "Di Fu Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5730\u9aa8\u76ae",
+        "English_name": "root - bark of Chinese Wolfberry",
+        "Pinyin_name": "Di Gu Pi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5730\u9526\u8349",
+        "English_name": "all - grass of Humifuse Euphorbia",
+        "Pinyin_name": "Di Jin Cao",
+        "nature": "neutral",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5730\u6986",
+        "English_name": "Root of Garden Burnet",
+        "Pinyin_name": "Di Yu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4e01\u516c\u85e4",
+        "English_name": "Stem of Taiwan Erycibe",
+        "Pinyin_name": "Ding Gong Teng",
+        "nature": "warm",
+        "part_used": "rattan",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u4e01\u9999",
+        "English_name": "Clove",
+        "Pinyin_name": "Ding Xiang",
+        "nature": "warm",
+        "part_used": "flower bud",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u51ac\u866b\u590f\u8349",
+        "English_name": "Chinese Caterpillar Fungus",
+        "Pinyin_name": "Dong Chong Xia Cao",
+        "nature": "neutral",
+        "part_used": "a drug consisting of dried fungal stroma growing on larva of a caterpillar",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u51ac\u74dc\u76ae",
+        "English_name": "Chinese Waxgourd Peel",
+        "Pinyin_name": "Dong Gua Pi",
+        "nature": "cold",
+        "part_used": "exocarp",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u72ec\u6d3b",
+        "English_name": "Doubleteeth Pubescent Angelica Root",
+        "Pinyin_name": "Du Huo",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u675c\u4ef2",
+        "English_name": "Eucommia bark",
+        "Pinyin_name": "Du Zhong",
+        "nature": "warm",
+        "part_used": "bark",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u83aa\u672f",
+        "English_name": "Zedoray Rhizome",
+        "Pinyin_name": "E Shu",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u513f\u8336",
+        "English_name": "Cutch, Black Catechu",
+        "Pinyin_name": "Er Cha",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u756a\u6cfb\u53f6",
+        "English_name": "Sen leaf",
+        "Pinyin_name": "Fan Xie Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9632\u98ce",
+        "English_name": "root of Divaricate Saposhnikovia",
+        "Pinyin_name": "Fang Feng",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9632\u5df1",
+        "English_name": "Root of Fourstamen Stephania",
+        "Pinyin_name": "Fang Ji",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u51e4\u5c3e\u8349",
+        "English_name": "all - grass of Chinese Brake",
+        "Pinyin_name": "Feng Wei Cao",
+        "nature": "cold",
+        "part_used": "whole herb or rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u51e4\u4ed9\u900f\u9aa8\u8349",
+        "English_name": "all-grass of Tubercultae speranskia",
+        "Pinyin_name": "Feng Xian Tou Gu Cao",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4f5b\u624b",
+        "English_name": "Finger Citron",
+        "Pinyin_name": "Fo Shou",
+        "nature": "warm",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u832f\u82d3",
+        "English_name": "Indian Bread",
+        "Pinyin_name": "Fu Ling",
+        "nature": "neutral",
+        "part_used": "sclerotium",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6d6e\u840d",
+        "English_name": "all-grass of Common Ducksmeat",
+        "Pinyin_name": "Fu Ping",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u9644\u5b50",
+        "English_name": "Common Monkshood Daughter Root",
+        "Pinyin_name": "Fu Zi",
+        "nature": "hot",
+        "part_used": "daughter root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7518\u8349",
+        "English_name": "Root of Ural Licorice",
+        "Pinyin_name": "Gan Cao",
+        "nature": "neutral",
+        "part_used": "root and rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7518\u677e",
+        "English_name": "rdostachys Root",
+        "Pinyin_name": "Gan Song",
+        "nature": "warm",
+        "part_used": "root and rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7518\u9042",
+        "English_name": "root of Gansui",
+        "Pinyin_name": "Gan Sui",
+        "nature": "cold",
+        "part_used": "tuberoid",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5e72\u59dc",
+        "English_name": "Dried Ginger",
+        "Pinyin_name": "Gan Jiang",
+        "nature": "hot",
+        "part_used": "dried rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u845b\u82b1",
+        "English_name": "flower bud of lobed kudzuvine",
+        "Pinyin_name": "Ge Hua",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u529f\u52b3\u6728",
+        "English_name": "Stem of Leatherleaf Mahonia",
+        "Pinyin_name": "Gong Lao Mu",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u94a9\u85e4",
+        "English_name": "Gambir Plant",
+        "Pinyin_name": "Gou Teng",
+        "nature": "cold",
+        "part_used": "hooked stem-branch",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u67b8\u675e\u5b50",
+        "English_name": "fruit of Chinese Wolfberry",
+        "Pinyin_name": "Gou Qi Zi",
+        "nature": "neutral",
+        "part_used": "fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8c37\u7cbe\u8349",
+        "English_name": "Pipewort Flower",
+        "Pinyin_name": "Gu Jing Cao",
+        "nature": "neutral",
+        "part_used": "flower head with peduncle",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9aa8\u788e\u8865",
+        "English_name": "rhizome of Heartleaf Dryria",
+        "Pinyin_name": "Gu Sui Bu",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u74dc\u8482",
+        "English_name": "Muskmelon base",
+        "Pinyin_name": "Gua Di",
+        "nature": "cold",
+        "part_used": "fruit pedicel",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8d2f\u4f17",
+        "English_name": "root of Chinese Angelica",
+        "Pinyin_name": "Guan Zhong",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5e7f\u67a3",
+        "English_name": "fruit of Axillary choerospondias",
+        "Pinyin_name": "Guang Zao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u9b3c\u7bad\u7fbd",
+        "English_name": "twig of Winged Euonymus",
+        "Pinyin_name": "Gui Jian Yu",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6842\u679d",
+        "English_name": "Cassia Twig",
+        "Pinyin_name": "Gui Zhi",
+        "nature": "warm",
+        "part_used": "twig",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6d77\u98ce\u85e4",
+        "English_name": "stem of Kadsura Pepper",
+        "Pinyin_name": "Hai Feng Teng",
+        "nature": "warm",
+        "part_used": "stem",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6d77\u91d1\u6c99",
+        "English_name": "spore of Japanese climbing Fern",
+        "Pinyin_name": "Hai Jin Sha",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6d77\u6850\u76ae",
+        "English_name": "bark of Oriental Variegated Coralbean",
+        "Pinyin_name": "Hai Tong Pi",
+        "nature": "neutral",
+        "part_used": "bark",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6d77\u85fb",
+        "English_name": "seaweed",
+        "Pinyin_name": "Hai Zao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "salty"
+      },
+      {
+        "Chinese_name": "\u8bc3\u5b50",
+        "English_name": "Medicine Termilia Fruit",
+        "Pinyin_name": "He Zi",
+        "nature": "neutral",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8377\u53f6",
+        "English_name": "Lotus leaf",
+        "Pinyin_name": "He Ye",
+        "nature": "neutral",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9e64\u8671",
+        "English_name": "Common Carpesium Fruit",
+        "Pinyin_name": "He Shi",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ed1\u8c46",
+        "English_name": "Black bean",
+        "Pinyin_name": "Hei Dou",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9ed1\u829d\u9ebb",
+        "English_name": "Black Sesame",
+        "Pinyin_name": "Hei Zhi Ma",
+        "nature": "neutral",
+        "part_used": "black seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7ea2\u53c2",
+        "English_name": "Red Ginseng",
+        "Pinyin_name": "Hong Can",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7ea2\u82b1",
+        "English_name": "Safflower",
+        "Pinyin_name": "Hong Hua",
+        "nature": "warm",
+        "part_used": "flower",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u539a\u6734",
+        "English_name": "bark of Officil magnolia",
+        "Pinyin_name": "Hou Pu",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u80e1\u6912",
+        "English_name": "Pepper Fruit",
+        "Pinyin_name": "Hu Jiao",
+        "nature": "hot",
+        "part_used": "fruit",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u69f2\u5bc4\u751f",
+        "English_name": "Colored Mistletoe Herb",
+        "Pinyin_name": "Hu Ji Sheng",
+        "nature": "neutral",
+        "part_used": "stem and branch-leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u864e\u8033\u8349",
+        "English_name": "stem or leaf of Fung Waxplant",
+        "Pinyin_name": "Hu Er Cao",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u864e\u6756",
+        "English_name": "rhizome of Gaint Knotweed",
+        "Pinyin_name": "Hu Zhang",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82b1\u6912",
+        "English_name": "Pricklyash Peel",
+        "Pinyin_name": "Hua Jiao",
+        "nature": "warm",
+        "part_used": "pericarp",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u82b1\u751f\u8863",
+        "English_name": "Semino-dermis Arachidis ",
+        "Pinyin_name": "Hua Sheng Yi",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5316\u6a58\u7ea2",
+        "English_name": "Pummelo Peel",
+        "Pinyin_name": "Hua Ju Hong",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u69d0\u82b1",
+        "English_name": "flower bud of Japanese pagodatree",
+        "Pinyin_name": "Huai Hua",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u69d0\u89d2",
+        "English_name": "pod of Japanese pagodatree",
+        "Pinyin_name": "Huai Jiao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ec4\u67cf",
+        "English_name": "Phellodendron bark",
+        "Pinyin_name": "Huang Bai",
+        "nature": "cold",
+        "part_used": "bark",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ec4\u7cbe",
+        "English_name": "Rhizome of Fragrant Solomonseal",
+        "Pinyin_name": "Huang Jing",
+        "nature": "neutral",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9ec4\u8fde",
+        "English_name": "rhizome of Chinese Goldthread",
+        "Pinyin_name": "Huang Lian",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ec4\u82aa",
+        "English_name": "root of Membranous Milkvetch",
+        "Pinyin_name": "Huang Qi",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9ec4\u82a9",
+        "English_name": "root of Baikal skullcap",
+        "Pinyin_name": "Huang Qin",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ec4\u836f\u5b50",
+        "English_name": "rhizome of Airpotato Yam",
+        "Pinyin_name": "Huang Yao Zi",
+        "nature": "cold",
+        "part_used": "tuber",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u706b\u9ebb\u4ec1",
+        "English_name": "Hemp Seed",
+        "Pinyin_name": "Huo Ma Ren",
+        "nature": "neutral",
+        "part_used": "ripe seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9e21\u9aa8\u8349",
+        "English_name": "Canton Love-pea Vine",
+        "Pinyin_name": "Ji Gu Cao",
+        "nature": "cool",
+        "part_used": "whole herb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9e21\u51a0\u82b1",
+        "English_name": "Cockscomb flower ",
+        "Pinyin_name": "Ji Guan Hua",
+        "nature": "cool",
+        "part_used": "inflorescence",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9e21\u8840\u85e4",
+        "English_name": "Suberect Spatholobus Stem",
+        "Pinyin_name": "Ji Xie Teng",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u79ef\u96ea\u8349",
+        "English_name": "Asiatic Pennywort Herb",
+        "Pinyin_name": "Ji Xue Cao",
+        "nature": "warm",
+        "part_used": "whole herb with root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6025\u6027\u5b50",
+        "English_name": "seed of Garden Balsam",
+        "Pinyin_name": "Ji Xing Zi",
+        "nature": "unknown",
+        "part_used": "ripe seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u59dc\u9ec4",
+        "English_name": "rhizome of Common Turmeric",
+        "Pinyin_name": "Jiang Huang",
+        "nature": "warm",
+        "part_used": "tuberoid",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u964d\u9999",
+        "English_name": "Odoriferous Rosewood",
+        "Pinyin_name": "Jiang Xiang",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u91d1\u6cb8\u8349",
+        "English_name": "All - grass of Japanese Inula",
+        "Pinyin_name": "Jin Fei Cao",
+        "nature": "warm",
+        "part_used": "aerial parts",
+        "taste": "salty"
+      },
+      {
+        "Chinese_name": "\u91d1\u83b2\u82b1",
+        "English_name": "flower of Chinese Globeflower",
+        "Pinyin_name": "Jin Lian Hua",
+        "nature": "cold",
+        "part_used": "flower",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u91d1\u94b1\u8349",
+        "English_name": "Christi Loosestrife",
+        "Pinyin_name": "Jin Qian Cao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u91d1\u94f6\u82b1",
+        "English_name": "Honeysuckle Flower",
+        "Pinyin_name": "Jin Yin Hua",
+        "nature": "cold",
+        "part_used": "flower bud",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u91d1\u6a31\u5b50",
+        "English_name": "fruit of Cherokee Rose",
+        "Pinyin_name": "Jin Ying Zi",
+        "nature": "neutral",
+        "part_used": "fruit",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u8346\u82a5",
+        "English_name": "all-grass of Fineleaf Schizonepeta",
+        "Pinyin_name": "Jing Jie",
+        "nature": "warm",
+        "part_used": "aerial parts",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u6854\u6897",
+        "English_name": "Platycodon Root",
+        "Pinyin_name": "Jie Geng",
+        "nature": "neutral",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u83ca\u82b1",
+        "English_name": "Chrysanthemum Flower",
+        "Pinyin_name": "Ju Hua",
+        "nature": "cold",
+        "part_used": "capitulum",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6a58\u6838",
+        "English_name": "Tangerine Seed",
+        "Pinyin_name": "Ju He",
+        "nature": "warm",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6a58\u53f6",
+        "English_name": "tangerine leaf",
+        "Pinyin_name": "Ju Ye",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5377\u67cf",
+        "English_name": "aal-grass of Tamariskoid spikemoss",
+        "Pinyin_name": "Juan Bai",
+        "nature": "neutral",
+        "part_used": "dried whole herb",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u51b3\u660e\u5b50",
+        "English_name": "Cassia Seed",
+        "Pinyin_name": "Jue Ming Zi",
+        "nature": "cold",
+        "part_used": "ripe seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u82e6\u53c2",
+        "English_name": "root of Lightyellow sophora",
+        "Pinyin_name": "Ku Can",
+        "nature": "cold",
+        "part_used": "dried root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82e6\u5730\u4e01",
+        "English_name": "all - grass of Bunge Corydalis",
+        "Pinyin_name": "Ku Di Ding",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82e6\u674f\u4ec1",
+        "English_name": "bitter Apricot seed",
+        "Pinyin_name": "Ku Xing Ren",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6b3e\u51ac\u82b1",
+        "English_name": "flower bud of common coltsfoot",
+        "Pinyin_name": "Kuan Dong Hua",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6606\u5e03",
+        "English_name": "Kelp or Tangle",
+        "Pinyin_name": "Kun Bu",
+        "nature": "cold",
+        "part_used": "dried thallus",
+        "taste": "salty"
+      },
+      {
+        "Chinese_name": "\u8fa3\u6912",
+        "English_name": "Hot pepper",
+        "Pinyin_name": "La Jiao",
+        "nature": "hot",
+        "part_used": "fruit",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u83b1\u83d4\u5b50",
+        "English_name": "Radish Seed",
+        "Pinyin_name": "Lai Fu Zi",
+        "nature": "neutral",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8001\u9e73\u8349",
+        "English_name": "All - grass of Common Heron's bill",
+        "Pinyin_name": "Lao Guan Cao",
+        "nature": "neutral",
+        "part_used": "aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u96f7\u516c\u85e4",
+        "English_name": "root of common htreewingnut",
+        "Pinyin_name": "Lei Gong Teng",
+        "nature": "cold",
+        "part_used": "root, leaf and flower",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u96f7\u4e38",
+        "English_name": "Thunder Ball",
+        "Pinyin_name": "Lei Wan",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8354\u679d\u6838",
+        "English_name": "Litchi seed",
+        "Pinyin_name": "Li Zhi He",
+        "nature": "warm",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8fde\u7fd8",
+        "English_name": "Weeping Forsythia Capsule",
+        "Pinyin_name": "Lian Qiao",
+        "nature": "cold",
+        "part_used": "dried fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u83b2\u987b",
+        "English_name": "Lotus stamen",
+        "Pinyin_name": "Lian Xu",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u83b2\u5b50\u5fc3",
+        "English_name": "Lotus Plumule",
+        "Pinyin_name": "Lian Zi Xin",
+        "nature": "neutral",
+        "part_used": "dried plumule and radicle in seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u4e24\u9762\u9488",
+        "English_name": "Shinyleaf Pricklyash Root",
+        "Pinyin_name": "Liang Mian Zhen",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7075\u829d",
+        "English_name": "Lucid Ganoderma",
+        "Pinyin_name": "Ling Zhi",
+        "nature": "neutral",
+        "part_used": "dried sporocarp",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u51cc\u9704\u82b1",
+        "English_name": "flower of Common Trumpetcreeper",
+        "Pinyin_name": "Ling Xiao Hua",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u6f0f\u82a6",
+        "English_name": "Uniflower Swisscentaury Root",
+        "Pinyin_name": "Lou Lu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82a6\u6839",
+        "English_name": "Reed rhizome ",
+        "Pinyin_name": "Lu Gen",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u82a6\u835f",
+        "English_name": "Aloe",
+        "Pinyin_name": "Lu Hui",
+        "nature": "cold",
+        "part_used": "solid residue obtained by evaporating liquid which drains from leaves",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9e7f\u8854\u8349",
+        "English_name": "all-grass Chinese pyrola",
+        "Pinyin_name": "Lu Xian Cao",
+        "nature": "warm",
+        "part_used": "whole herb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8def\u8def\u901a",
+        "English_name": "fruit of beautiful sweetgum",
+        "Pinyin_name": "Lu Lu Tong",
+        "nature": "neutral",
+        "part_used": "inflorescence",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7f57\u6c49\u679c",
+        "English_name": "Grosvenor Momordica Fruit",
+        "Pinyin_name": "Luo Han Guo",
+        "nature": "cool",
+        "part_used": "fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7edc\u77f3\u85e4",
+        "English_name": "stem of Chinese starjasmine",
+        "Pinyin_name": "Luo Shi Teng",
+        "nature": "cold",
+        "part_used": "leafy stem",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7eff\u8c46",
+        "English_name": "mung bean",
+        "Pinyin_name": "Lv Dou",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9ebb\u9ec4",
+        "English_name": "Ephedra",
+        "Pinyin_name": "Ma Huang",
+        "nature": "warm",
+        "part_used": "herbaceous twigs",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ebb\u9ec4\u6839",
+        "English_name": "Ephedra Root",
+        "Pinyin_name": "Ma Huang Gen",
+        "nature": "neutral",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9a6c\u52c3",
+        "English_name": "Puff-ball",
+        "Pinyin_name": "Ma Bo",
+        "nature": "neutral",
+        "part_used": "sporocarp",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u9a6c\u9f7f\u82cb",
+        "English_name": "all-grass of Purslane",
+        "Pinyin_name": "Ma Chi Xian",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u9a6c\u515c\u94c3",
+        "English_name": "Dutohmanspipe Fruit",
+        "Pinyin_name": "Ma Dou Ling",
+        "nature": "cold",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9a6c\u94b1\u5b50",
+        "English_name": "Nux Vomica",
+        "Pinyin_name": "Ma Qian Zi",
+        "nature": "cold",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9ea6\u82bd",
+        "English_name": "Germited Barley",
+        "Pinyin_name": "Mai Ya",
+        "nature": "neutral",
+        "part_used": "germinated fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6ee1\u5c71\u7ea2",
+        "English_name": "Dahurian Rhododendron Leaf",
+        "Pinyin_name": "Man Shan Hong",
+        "nature": "warm",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8513\u8346\u5b50",
+        "English_name": "Shrub Chastetree Fruit",
+        "Pinyin_name": "Man Jing Zi",
+        "nature": "cold",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u732b\u722a\u8349",
+        "English_name": "Catclaw Buttercup Root",
+        "Pinyin_name": "Mao Zhua Cao",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6ca1\u836f",
+        "English_name": "Myrrh",
+        "Pinyin_name": "Mei Yao",
+        "nature": "neutral",
+        "part_used": "balsam",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u73ab\u7470\u82b1",
+        "English_name": "Rose Flower",
+        "Pinyin_name": "Mei Gui Hua",
+        "nature": "warm",
+        "part_used": "bud",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5bc6\u8499\u82b1",
+        "English_name": "flower of Pale Butterflybush",
+        "Pinyin_name": "Mi Meng Hua",
+        "nature": "cold",
+        "part_used": "flower",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u58a8\u65f1\u83b2",
+        "English_name": "all-grass of Yerbadetajo",
+        "Pinyin_name": "Mo Han Lian",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7261\u4e39\u76ae",
+        "English_name": "Tree Peony Bark",
+        "Pinyin_name": "Mu Dan Pi",
+        "nature": "cold",
+        "part_used": "root cortex",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6728\u74dc",
+        "English_name": "fruit of Common Floweringquince",
+        "Pinyin_name": "Mu Gua",
+        "nature": "warm",
+        "part_used": "fruit",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u6728\u68c9\u82b1",
+        "English_name": "Flower of Common Bombax",
+        "Pinyin_name": "Mu Mian Hua",
+        "nature": "cool",
+        "part_used": "flower",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6728\u901a",
+        "English_name": "Akebia, Clematis stem",
+        "Pinyin_name": "Mu Tong",
+        "nature": "cold",
+        "part_used": "stem",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6728\u9999",
+        "English_name": "Common Aucklandia Root",
+        "Pinyin_name": "Mu Xiang",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6728\u8d3c",
+        "English_name": "Common Scouring Rush Herb",
+        "Pinyin_name": "Mu Zei",
+        "nature": "neutral",
+        "part_used": "aerial parts",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5357\u74dc\u5b50",
+        "English_name": "Pumpkin seed and husks",
+        "Pinyin_name": "Nan Gua Zi",
+        "nature": "neutral",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u725b\u84a1\u5b50",
+        "English_name": "achene of Great Burdock",
+        "Pinyin_name": "Niu Bang Zi",
+        "nature": "cold",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u725b\u9ec4",
+        "English_name": "Cow-bezoar",
+        "Pinyin_name": "Niu Huang",
+        "nature": "cool",
+        "part_used": "gallstone",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u725b\u819d",
+        "English_name": "root of Twotooth Achyranthes",
+        "Pinyin_name": "Niu Xi",
+        "nature": "neutral",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5973\u8d1e\u5b50",
+        "English_name": "fruit of Glossy privet",
+        "Pinyin_name": "Nv Zhen Zi",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u85d5\u8282",
+        "English_name": "node of lotus rhizome",
+        "Pinyin_name": "Ou Jie",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u80d6\u5927\u6d77",
+        "English_name": "Boat-fruited Sterculia Seed",
+        "Pinyin_name": "Pang Da Hai",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u4f69\u5170",
+        "English_name": "Fortune Eupatorium Herb",
+        "Pinyin_name": "Pei Lan",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "unknown"
+      },
+      {
+        "Chinese_name": "\u6787\u6777\u53f6",
+        "English_name": "Loquat Leaf",
+        "Pinyin_name": "Pi Pa Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u84b2\u9ec4",
+        "English_name": "pollen of longbract cattail",
+        "Pinyin_name": "Pu Huang",
+        "nature": "neutral",
+        "part_used": "pollen",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5343\u65a4\u62d4",
+        "English_name": "root of Philippine Flemingia",
+        "Pinyin_name": "Qian Jin Ba",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5343\u5e74\u5065",
+        "English_name": "rhizome of Obscured Homalome",
+        "Pinyin_name": "Qian Nian Jian",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7275\u725b\u5b50",
+        "English_name": "Pharbitis seed",
+        "Pinyin_name": "Qian Niu Zi",
+        "nature": "cold",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u524d\u80e1",
+        "English_name": "root of Grand Hogfennel",
+        "Pinyin_name": "Qian Hu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82a1\u5b9e",
+        "English_name": "seed of Gordon Euryale",
+        "Pinyin_name": "Qian Shi",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u831c\u8349",
+        "English_name": "root of Tali Madder",
+        "Pinyin_name": "Qian Cao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7f8c\u6d3b",
+        "English_name": "Root and rhizome of Incised Notoptergium",
+        "Pinyin_name": "Qiang Huo",
+        "nature": "warm",
+        "part_used": "rhizome or root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u8304\u6839",
+        "English_name": "root of Garden Eggplant",
+        "Pinyin_name": "Qie Gen",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u79e6\u827d",
+        "English_name": "root of Largeleaf Gentian",
+        "Pinyin_name": "Qin Qiu",
+        "nature": "cold",
+        "part_used": "dried root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u79e6\u76ae",
+        "English_name": "bark of Largeleaf Chinese Ash",
+        "Pinyin_name": "Qin Pi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9752\u9edb",
+        "English_name": "tural Indigo",
+        "Pinyin_name": "Qing Dai",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "salty"
+      },
+      {
+        "Chinese_name": "\u9752\u84bf",
+        "English_name": "Sweet Wormwood Herb",
+        "Pinyin_name": "Qing Hao",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9752\u76ae",
+        "English_name": "Green Tangerine Peel",
+        "Pinyin_name": "Qing Pi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u9752\u53f6\u80c6",
+        "English_name": "All - grass of Mile Swertia",
+        "Pinyin_name": "Qing Ye Dan",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u77bf\u9ea6",
+        "English_name": "all-grass of Lilac Pink",
+        "Pinyin_name": "Qu Mai",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u62f3\u53c2",
+        "English_name": "rhizome of Bistort",
+        "Pinyin_name": "Quan Can",
+        "nature": "cool",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4eba\u53c2",
+        "English_name": "Ginseng",
+        "Pinyin_name": "Ren Can",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8089\u82c1\u84c9",
+        "English_name": "Desertliving Cistanche",
+        "Pinyin_name": "Rou Cong Rong",
+        "nature": "warm",
+        "part_used": "fleshy stem",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8089\u8c46\u853b",
+        "English_name": "Nutmeg",
+        "Pinyin_name": "Rou Dou Kou",
+        "nature": "warm",
+        "part_used": "kernel",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u8089\u6842",
+        "English_name": "Cassia Bark",
+        "Pinyin_name": "Rou Gui",
+        "nature": "hot",
+        "part_used": "bark",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u4e73\u9999",
+        "English_name": "Frankincense",
+        "Pinyin_name": "Ru Xiang",
+        "nature": "warm",
+        "part_used": "balsam",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4e09\u68f1",
+        "English_name": "Common Burreed Tuber",
+        "Pinyin_name": "San Leng",
+        "nature": "neutral",
+        "part_used": "tuber",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4e09\u4e03",
+        "English_name": "Sanchi",
+        "Pinyin_name": "San Qi",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6851\u5bc4\u751f",
+        "English_name": "Chinese Taxillus Herb",
+        "Pinyin_name": "Sang Ji Sheng",
+        "nature": "neutral",
+        "part_used": "stem and branch-leaf",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6851\u6939",
+        "English_name": "Mulberry Fruit",
+        "Pinyin_name": "Sang Shen",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6851\u53f6",
+        "English_name": "Mulberry Leaf",
+        "Pinyin_name": "Sang Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6851\u679d",
+        "English_name": "Mulberry Twig",
+        "Pinyin_name": "Sang Zhi",
+        "nature": "neutral",
+        "part_used": "young twig",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6c99\u68d8",
+        "English_name": "fruit of seabuckthorn",
+        "Pinyin_name": "Sha Ji",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u6c99\u82d1\u5b50",
+        "English_name": "Flatstem Milkvetch Seed",
+        "Pinyin_name": "Sha Yuan Zi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7802\u4ec1",
+        "English_name": "Villous Amomum Fruit",
+        "Pinyin_name": "Sha Ren",
+        "nature": "warm",
+        "part_used": "ripe fruit or seed",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5c71\u8c46\u6839",
+        "English_name": "Vietmese Sophora Root",
+        "Pinyin_name": "Shan Dou Gen",
+        "nature": "cold",
+        "part_used": "root and rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5c71\u67f0",
+        "English_name": "Galanga Resurrectionlily Rhizome",
+        "Pinyin_name": "Shan Nai",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5c71\u836f",
+        "English_name": "Common Yam Rhizome",
+        "Pinyin_name": "Shan Yao",
+        "nature": "neutral",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5c71\u8331\u8438",
+        "English_name": "Asiatic Cornelian Cherry Fruit",
+        "Pinyin_name": "Shan Zhu Yu",
+        "nature": "warm",
+        "part_used": "fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5546\u9646",
+        "English_name": "Pokeberry Root",
+        "Pinyin_name": "Shang Lu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u86c7\u5e8a\u5b50",
+        "English_name": "Common Cnidium Fruit",
+        "Pinyin_name": "She Chuang Zi",
+        "nature": "warm",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5c04\u5e72",
+        "English_name": "Blackberrylily Rhizome",
+        "Pinyin_name": "She Gan",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4f38\u7b4b\u8349",
+        "English_name": "Common Clubmoss Herb",
+        "Pinyin_name": "Shen Jin Cao",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5347\u9ebb",
+        "English_name": "Largetrifoliolious Bugbane Rhizome",
+        "Pinyin_name": "Sheng Ma",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u751f\u59dc",
+        "English_name": "Fresh Ginger",
+        "Pinyin_name": "Sheng Jiang",
+        "nature": "warm",
+        "part_used": "fresh rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5341\u5927\u529f\u52b3\u53f6",
+        "English_name": "leaf of leatherleaf Mahonia",
+        "Pinyin_name": "Shi Da Gong Lao Ye",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u77f3\u83d6\u84b2",
+        "English_name": "Grassleaf Sweetflag Rhizome",
+        "Pinyin_name": "Shi Chang Pu",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u77f3\u69b4\u76ae",
+        "English_name": "Pomegrate Rind",
+        "Pinyin_name": "Shi Liu Pi",
+        "nature": "warm",
+        "part_used": "pericarp",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u4f7f\u541b\u5b50",
+        "English_name": "fruit of Rangooncreeper",
+        "Pinyin_name": "Shi Jun Zi",
+        "nature": "warm",
+        "part_used": "ripe fruit",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u67ff\u8482",
+        "English_name": "calyx and receptacle of a Persimmon",
+        "Pinyin_name": "Shi Di",
+        "nature": "neutral",
+        "part_used": "calyx",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u719f\u5730\u9ec4",
+        "English_name": "Prepared Rehmannia Root",
+        "Pinyin_name": "Shu Di Huang",
+        "nature": "warm",
+        "part_used": "steamed and sundried root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u56db\u5b63\u9752",
+        "English_name": "Purpleflower Holly Leaf",
+        "Pinyin_name": "Si Ji Qing",
+        "nature": "cold",
+        "part_used": "leaf",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u677e\u8282",
+        "English_name": "Knotty pine wood, Pine nodular branch",
+        "Pinyin_name": "Song Jie",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82cf\u5408\u9999",
+        "English_name": "Storax",
+        "Pinyin_name": "Su He Xiang",
+        "nature": "warm",
+        "part_used": "balsam from trunk",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u9178\u67a3\u4ec1",
+        "English_name": "Spine Date Seed",
+        "Pinyin_name": "Suan Zao Ren",
+        "nature": "neutral",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u592a\u5b50\u53c2",
+        "English_name": "Heterophylly Falsestarwort Root",
+        "Pinyin_name": "Tai Zi Can",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6a80\u9999",
+        "English_name": "Sandalwood",
+        "Pinyin_name": "Tan Xiang",
+        "nature": "warm",
+        "part_used": "heartwood",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u6843\u4ec1",
+        "English_name": "Peach Seed",
+        "Pinyin_name": "Tao Ren",
+        "nature": "neutral",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5929\u51ac",
+        "English_name": "Cochinchinese Asparagus Root",
+        "Pinyin_name": "Tian Dong",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5929\u82b1\u7c89",
+        "English_name": "Trichosanthes root, Skegourd root",
+        "Pinyin_name": "Tian Hua Fen",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5929\u8475\u5b50",
+        "English_name": "Muskroot-like Semiaquilegia Root",
+        "Pinyin_name": "Tian Kui Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u5929\u5357\u661f",
+        "English_name": "Jackinthepulpit Tuber",
+        "Pinyin_name": "Tian Nan Xing",
+        "nature": "warm",
+        "part_used": "tuber",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5929\u4ed9\u5b50",
+        "English_name": "Henbane Seed",
+        "Pinyin_name": "Tian Xian Zi",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5929\u7afa\u9ec4",
+        "English_name": "Chinese schinzostachyum Tabasheer",
+        "Pinyin_name": "Tian Zhu Huang",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u751c\u74dc\u5b50",
+        "English_name": "muskmelon seed",
+        "Pinyin_name": "Tian Gua Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u94c1\u4e1d\u5a01\u7075\u4ed9",
+        "English_name": "root and rhizome of smilax",
+        "Pinyin_name": "Tie Si Wei Ling Xian",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u8476\u82c8\u5b50",
+        "English_name": "Lepidium seed, Descurainia seed",
+        "Pinyin_name": "Ting Li Zi",
+        "nature": "cold",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u901a\u8349",
+        "English_name": "puth of Ricepaperplant",
+        "Pinyin_name": "Tong Cao",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u571f\u8d1d\u6bcd",
+        "English_name": "Paniculate Bolbostemma",
+        "Pinyin_name": "Tu Bei Mu",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u571f\u832f\u82d3",
+        "English_name": "Glabrous Greenbrier Rhizome",
+        "Pinyin_name": "Tu Fu Ling",
+        "nature": "neutral",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u83df\u4e1d\u5b50",
+        "English_name": "Dodder Seed",
+        "Pinyin_name": "Tu Si Zi",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u74e6\u695e\u5b50",
+        "English_name": "Arc Shell",
+        "Pinyin_name": "Wa Leng Zi",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "salty"
+      },
+      {
+        "Chinese_name": "\u738b\u4e0d\u7559\u884c",
+        "English_name": "Vacarria seed, Cow soapwort seed",
+        "Pinyin_name": "Wang Bu Liu Xing",
+        "nature": "neutral",
+        "part_used": "seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5a01\u7075\u4ed9",
+        "English_name": "Chinese Clematis Root",
+        "Pinyin_name": "Wei Ling Xian",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u4e4c\u6885",
+        "English_name": "Smoked Plum",
+        "Pinyin_name": "Wu Mei",
+        "nature": "neutral",
+        "part_used": "unripe fruit",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u4e4c\u836f",
+        "English_name": "Combined Spicebush Root",
+        "Pinyin_name": "Wu Yao",
+        "nature": "warm",
+        "part_used": "tuberoid",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5434\u8331\u8438",
+        "English_name": "Medicil Evodia Fruit",
+        "Pinyin_name": "Wu Zhu Yu",
+        "nature": "hot",
+        "part_used": "fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4e94\u500d\u5b50",
+        "English_name": "Chinese Gall",
+        "Pinyin_name": "Wu Bei Zi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u897f\u6cb3\u67f3",
+        "English_name": "Chinese Tamarisk Twig",
+        "Pinyin_name": "Xi He Liu",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u897f\u7ea2\u82b1",
+        "English_name": "Saffron",
+        "Pinyin_name": "Xi Hong Hua",
+        "nature": "neutral",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u897f\u6d0b\u53c2",
+        "English_name": "American Ginseng",
+        "Pinyin_name": "Xi Yang Can",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7ec6\u8f9b",
+        "English_name": "all-grass Manchurian wildginger",
+        "Pinyin_name": "Xi Xin",
+        "nature": "warm",
+        "part_used": "whole herb",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u590f\u67af\u8349",
+        "English_name": "fruit -spike of Common Selfheal",
+        "Pinyin_name": "Xia Ku Cao",
+        "nature": "cold",
+        "part_used": "spike",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4ed9\u9e64\u8349",
+        "English_name": "all - grss of Hairyvein Agrimonia",
+        "Pinyin_name": "Xian He Cao",
+        "nature": "neutral",
+        "part_used": "aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u4ed9\u8305",
+        "English_name": "rhizome of Common Curculigo",
+        "Pinyin_name": "Xian Mao",
+        "nature": "hot",
+        "part_used": "rhizome",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u9999\u9644",
+        "English_name": "rhizome of Nutgrass Galingale",
+        "Pinyin_name": "Xiang Fu",
+        "nature": "neutral",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9999\u85b7",
+        "English_name": "all-grass of Haichow Elsholtzia",
+        "Pinyin_name": "Xiang Ru",
+        "nature": "warm",
+        "part_used": "aerial parts",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5c0f\u8334\u9999",
+        "English_name": "fennel fruit",
+        "Pinyin_name": "Xiao Hui Xiang",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u5c0f\u84df",
+        "English_name": "Field Thistle Herb",
+        "Pinyin_name": "Xiao Ji",
+        "nature": "cool",
+        "part_used": "whole herb or root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u85a4\u767d",
+        "English_name": "bulb of longstamen onion",
+        "Pinyin_name": "Xie Bai",
+        "nature": "warm",
+        "part_used": "bulb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5f90\u957f\u537f",
+        "English_name": "Paniculate Swallowwort Root",
+        "Pinyin_name": "Xu Chang Qing",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u7eed\u65ad",
+        "English_name": "Himalayan Teasel Root",
+        "Pinyin_name": "Xu Duan",
+        "nature": "warm",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7384\u53c2",
+        "English_name": "Figwort Root",
+        "Pinyin_name": "Xuan Can",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u65cb\u8986\u82b1",
+        "English_name": "Inula Flower",
+        "Pinyin_name": "Xuan Fu Hua",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u5ef6\u80e1\u7d22",
+        "English_name": "Corydalis tuber",
+        "Pinyin_name": "Yan Hu Suo",
+        "nature": "warm",
+        "part_used": "rhizome",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6d0b\u91d1\u82b1",
+        "English_name": "Datura Flower",
+        "Pinyin_name": "Yang Jin Hua",
+        "nature": "warm",
+        "part_used": "seed ,  abdomen, wind-damp impediment pain, knocks and falls, epilepsy, chronic fright wind, anesthesia",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u91ce\u83ca\u82b1",
+        "English_name": "Wild Chrysanthemum Flower",
+        "Pinyin_name": "Ye Ju Hua",
+        "nature": "cold",
+        "part_used": "flower-head",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u76ca\u6bcd\u8349",
+        "English_name": "motherwort",
+        "Pinyin_name": "Yi Mu Cao",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u858f\u82e1\u4ec1",
+        "English_name": "seed of Jobstears",
+        "Pinyin_name": "Yi Yi Ren",
+        "nature": "cold",
+        "part_used": "seed",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u8335\u9648",
+        "English_name": "Virgate Wormwood Herb",
+        "Pinyin_name": "Yin Chen",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u94f6\u67f4\u80e1",
+        "English_name": "Starwort Root",
+        "Pinyin_name": "Yin Chai Hu",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7f42\u7c9f\u58f3",
+        "English_name": "poppy capsule",
+        "Pinyin_name": "Ying Su Ke",
+        "nature": "neutral",
+        "part_used": "capsule",
+        "taste": "sour"
+      },
+      {
+        "Chinese_name": "\u4f59\u7518\u5b50",
+        "English_name": "Emblic Leafflower Fruit",
+        "Pinyin_name": "Yu Gan Zi",
+        "nature": "cool",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u9c7c\u8165\u8349",
+        "English_name": "all-grass of Heartleaf Houttuynia",
+        "Pinyin_name": "Yu Xing Cao",
+        "nature": "cold",
+        "part_used": "aerial parts",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u7389\u7af9",
+        "English_name": "Fragrant Solomonseal Rhizome",
+        "Pinyin_name": "Yu Zhu",
+        "nature": "neutral",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u90c1\u91d1",
+        "English_name": "Tuber - root of Common Turmeric",
+        "Pinyin_name": "Yu Jin",
+        "nature": "cold",
+        "part_used": "tuberoid",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u90c1\u674e\u4ec1",
+        "English_name": "Chinese Dwarf Cherry Seed",
+        "Pinyin_name": "Yu Li Ren",
+        "nature": "neutral",
+        "part_used": "ripe seed",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u82ab\u82b1",
+        "English_name": "flower bud of Lilac Daphne",
+        "Pinyin_name": "Yuan Hua",
+        "nature": "warm",
+        "part_used": "bud",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6708\u5b63\u82b1",
+        "English_name": "Chinese rose flower",
+        "Pinyin_name": "Yue Ji Hua",
+        "nature": "warm",
+        "part_used": "flower",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u4e91\u829d",
+        "English_name": "Coriolus versicolor",
+        "Pinyin_name": "Yun Zhi",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7682\u89d2\u523a",
+        "English_name": "spine of Chinese Honeylocust",
+        "Pinyin_name": "Zao Jiao Ci",
+        "nature": "warm",
+        "part_used": "unknown",
+        "taste": "pungent"
+      },
+      {
+        "Chinese_name": "\u6cfd\u5170",
+        "English_name": "Hirsute Shiny Bugleweed Herb",
+        "Pinyin_name": "Ze Lan",
+        "nature": "warm",
+        "part_used": "aerial parts",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u6cfd\u6cfb",
+        "English_name": "rhizome of Oriental Waterplantain",
+        "Pinyin_name": "Ze Xie",
+        "nature": "cold",
+        "part_used": "tuber",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6d59\u8d1d\u6bcd",
+        "English_name": "bulb of Thunberg Fritillary",
+        "Pinyin_name": "Zhe Bei Mu",
+        "nature": "cold",
+        "part_used": "bulb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u77e5\u6bcd",
+        "English_name": "rhizome of Common Amarrhe",
+        "Pinyin_name": "Zhi Mu",
+        "nature": "cold",
+        "part_used": "rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u6800\u5b50",
+        "English_name": "fruit of Cape Jasmine",
+        "Pinyin_name": "Zhi Zi",
+        "nature": "cold",
+        "part_used": "ripe fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u67b3\u58f3",
+        "English_name": "fruit of Seville orange",
+        "Pinyin_name": "Zhi Ke",
+        "nature": "cold",
+        "part_used": "unripe fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u67b3\u5b9e",
+        "English_name": "immature fruit of Seville orange",
+        "Pinyin_name": "Zhi Shi",
+        "nature": "cold",
+        "part_used": "young fruit",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u732a\u82d3",
+        "English_name": "Polyporus grifolia, Umbellate pore-fungus",
+        "Pinyin_name": "Zhu Ling",
+        "nature": "neutral",
+        "part_used": "sclerotium",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7af9\u6ca5",
+        "English_name": "Bamboo juice",
+        "Pinyin_name": "Zhu Li",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u82ce\u9ebb\u6839",
+        "English_name": "Ramine root ",
+        "Pinyin_name": "Meng Ma Gen",
+        "nature": "cold",
+        "part_used": "unknown",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7d2b\u8349",
+        "English_name": "Arnebia Root Gromwell Root",
+        "Pinyin_name": "Zi Cao",
+        "nature": "cold",
+        "part_used": "root",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u7d2b\u82b1\u5730\u4e01",
+        "English_name": "Tokyo Violet Herb",
+        "Pinyin_name": "Zi Hua Di Ding",
+        "nature": "cold",
+        "part_used": "whole herb",
+        "taste": "bitter"
+      },
+      {
+        "Chinese_name": "\u7d2b\u83c0",
+        "English_name": "root of tatarian aster",
+        "Pinyin_name": "Zi Wan",
+        "nature": "warm",
+        "part_used": "root and rhizome",
+        "taste": "sweet"
+      },
+      {
+        "Chinese_name": "\u845b\u6839",
+        "English_name": "root of lobed kudzuvine",
+        "Pinyin_name": "Ge Gen",
+        "nature": "cool",
+        "part_used": "tuberoid",
+        "taste": "sweet"
+      }
+    ]
+  },
+  "params": [
+    {
+      "bind": {
+        "input": "select",
+        "name": "Select Part: ",
+        "options": [
+          "All parts",
+          "a drug consisting of dried fungal stroma growing on larva of a caterpillar",
+          "aerial parts",
+          "balsam",
+          "balsam from trunk",
+          "bark",
+          "black seed",
+          "bud",
+          "bulb",
+          "calyx",
+          "capitulum",
+          "capsule",
+          "daughter root",
+          "dried aerial parts",
+          "dried fruit",
+          "dried plumule and radicle in seed",
+          "dried rhizome",
+          "dried root",
+          "dried seed",
+          "dried sporocarp",
+          "dried thallus",
+          "dried whole herb",
+          "exocarp",
+          "fleshy stem",
+          "flower",
+          "flower bud",
+          "flower head with peduncle",
+          "flower-head",
+          "fresh bulb",
+          "fresh rhizome",
+          "fruit",
+          "fruit pedicel",
+          "gallstone",
+          "germinated fruit",
+          "heartwood",
+          "herbaceous twigs",
+          "hooked stem-branch",
+          "inflorescence",
+          "kernel",
+          "leaf",
+          "leafy stem",
+          "nut",
+          "pericarp",
+          "pollen",
+          "rattan",
+          "resin",
+          "resinous wood",
+          "rhizome",
+          "rhizome or root",
+          "ripe fruit",
+          "ripe fruit or seed",
+          "ripe seed",
+          "root",
+          "root and rhizome",
+          "root cortex",
+          "root, leaf and flower",
+          "sclerotium",
+          "seed",
+          "seed ,  abdomen, wind-damp impediment pain, knocks and falls, epilepsy, chronic fright wind, anesthesia",
+          "solid residue obtained by evaporating liquid which drains from leaves",
+          "spike",
+          "sporocarp",
+          "steamed and sundried root",
+          "stem",
+          "stem and branch-leaf",
+          "tuber",
+          "tuberoid",
+          "twig",
+          "unknown",
+          "unripe fruit",
+          "whole herb",
+          "whole herb or rhizome",
+          "whole herb or root",
+          "whole herb with root",
+          "young fruit",
+          "young twig"
+        ]
+      },
+      "name": "Part",
+      "value": "All parts"
+    }
+  ],
+  "vconcat": [
+    {
+      "height": 250,
+      "layer": [
+        {
+          "encoding": {
+            "color": {
+              "field": "count",
+              "scale": {
+                "scheme": "tealblues"
+              },
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "nature",
+                "type": "nominal"
+              },
+              {
+                "field": "taste",
+                "type": "nominal"
+              },
+              {
+                "field": "count",
+                "type": "quantitative"
+              }
+            ],
+            "x": {
+              "field": "taste",
+              "sort": [
+                "sour",
+                "bitter",
+                "sweet",
+                "pungent",
+                "salty"
+              ],
+              "title": "Taste (\u4e94\u5473)",
+              "type": "ordinal"
+            },
+            "y": {
+              "field": "nature",
+              "sort": [
+                "cold",
+                "cool",
+                "neutral",
+                "warm",
+                "hot"
+              ],
+              "title": "Nature (\u5bd2\u51c9\u5e73\u6e29\u70ed)",
+              "type": "ordinal"
+            }
+          },
+          "mark": {
+            "type": "rect"
+          },
+          "transform": [
+            {
+              "filter": "((datum.part_used === Part) || (Part === 'All parts'))"
+            },
+            {
+              "aggregate": [
+                {
+                  "as": "count",
+                  "op": "count"
+                }
+              ],
+              "groupby": [
+                "nature",
+                "taste"
+              ]
+            }
+          ]
+        },
+        {
+          "encoding": {
+            "text": {
+              "field": "count",
+              "type": "quantitative"
+            },
+            "x": {
+              "field": "taste",
+              "sort": [
+                "sour",
+                "bitter",
+                "sweet",
+                "pungent",
+                "salty"
+              ],
+              "type": "ordinal"
+            },
+            "y": {
+              "field": "nature",
+              "sort": [
+                "cold",
+                "cool",
+                "neutral",
+                "warm",
+                "hot"
+              ],
+              "type": "ordinal"
+            }
+          },
+          "mark": {
+            "baseline": "middle",
+            "font": "Arial",
+            "type": "text"
+          },
+          "transform": [
+            {
+              "filter": "((datum.part_used === Part) || (Part === 'All parts'))"
+            },
+            {
+              "aggregate": [
+                {
+                  "as": "count",
+                  "op": "count"
+                }
+              ],
+              "groupby": [
+                "nature",
+                "taste"
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Herb Count Matrix \u2014 Nature \u00d7 Taste",
+      "width": 400
+    },
+    {
+      "hconcat": [
+        {
+          "encoding": {
+            "color": {
+              "field": "count",
+              "legend": null,
+              "scale": {
+                "scheme": "greens"
+              },
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "taste",
+                "type": "nominal"
+              },
+              {
+                "field": "count",
+                "type": "quantitative"
+              }
+            ],
+            "x": {
+              "field": "taste",
+              "sort": [
+                "sour",
+                "bitter",
+                "sweet",
+                "pungent",
+                "salty"
+              ],
+              "title": "Taste",
+              "type": "nominal"
+            },
+            "y": {
+              "field": "count",
+              "type": "quantitative"
+            }
+          },
+          "height": 250,
+          "mark": {
+            "type": "bar"
+          },
+          "title": "Taste Distribution",
+          "transform": [
+            {
+              "filter": "((datum.part_used === Part) || (Part === 'All parts'))"
+            },
+            {
+              "aggregate": [
+                {
+                  "as": "count",
+                  "op": "count"
+                }
+              ],
+              "groupby": [
+                "taste"
+              ]
+            }
+          ],
+          "width": 300
+        },
+        {
+          "encoding": {
+            "color": {
+              "field": "count",
+              "legend": null,
+              "scale": {
+                "scheme": "oranges"
+              },
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "nature",
+                "type": "nominal"
+              },
+              {
+                "field": "count",
+                "type": "quantitative"
+              }
+            ],
+            "x": {
+              "field": "nature",
+              "sort": [
+                "cold",
+                "cool",
+                "neutral",
+                "warm",
+                "hot"
+              ],
+              "title": "Nature",
+              "type": "nominal"
+            },
+            "y": {
+              "field": "count",
+              "type": "quantitative"
+            }
+          },
+          "height": 250,
+          "mark": {
+            "type": "bar"
+          },
+          "title": "Nature Distribution",
+          "transform": [
+            {
+              "filter": "((datum.part_used === Part) || (Part === 'All parts'))"
+            },
+            {
+              "aggregate": [
+                {
+                  "as": "count",
+                  "op": "count"
+                }
+              ],
+              "groupby": [
+                "nature"
+              ]
+            }
+          ],
+          "width": 300
+        }
+      ],
+      "resolve": {
+        "scale": {
+          "color": "independent"
+        }
+      }
+    }
+  ]
+}
