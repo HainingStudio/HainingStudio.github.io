@@ -29,7 +29,24 @@ In the original SymMap dataset, every herb is annotated with:
 
 I focused on these three descriptive attributes to explore how TCM concepts translate into measurable patterns.  
 The data was processed using **Python (pandas)** and visualized with **Altair**, producing an interactive dashboard stored as  
- `/images/herb_dashboard.json`.
+ {% raw %}
+<div id="herb-vis" style="max-width:900px;margin:2rem auto;"></div>
+
+<!-- Vega / Vega-Lite / Vega-Embed CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+<script>
+  const specUrl = "/images/herb_dashboard.json"; // 你的 JSON 路径
+  vegaEmbed("#herb-vis", specUrl, {actions: false})
+    .then(({view}) => {
+      // 可选：view.resize();
+    })
+    .catch(console.error);
+</script>
+{% endraw %}
+.
 
 This dashboard allows users to:
 - View the *Nature × Taste* heatmap of 499 herbs  
