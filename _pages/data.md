@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bridging Practice and Data — Visualizing Chinese Herbs
-permalink: /Data Stories/
+data_story: true
 description: Combining field observation in the pharmacy with large-scale data analysis from the SymMap database to understand how nature, taste, and part used shape traditional Chinese medicine.
 date: 2025-01-06 10:30:00
 image: '/images/02-1.jpg'
