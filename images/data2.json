@@ -1,0 +1,186 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.15.1.json",
+  "data": {
+    "name": "data-1bceb1f1ee85f553305a2eadf0077ee7"
+  },
+  "datasets": {
+    "data-1bceb1f1ee85f553305a2eadf0077ee7": [
+      {
+        "Count": 19,
+        "Pred": "cold",
+        "True": "cold"
+      },
+      {
+        "Count": 0,
+        "Pred": "cool",
+        "True": "cold"
+      },
+      {
+        "Count": 0,
+        "Pred": "hot",
+        "True": "cold"
+      },
+      {
+        "Count": 4,
+        "Pred": "neutral",
+        "True": "cold"
+      },
+      {
+        "Count": 3,
+        "Pred": "warm",
+        "True": "cold"
+      },
+      {
+        "Count": 2,
+        "Pred": "cold",
+        "True": "cool"
+      },
+      {
+        "Count": 0,
+        "Pred": "cool",
+        "True": "cool"
+      },
+      {
+        "Count": 0,
+        "Pred": "hot",
+        "True": "cool"
+      },
+      {
+        "Count": 1,
+        "Pred": "neutral",
+        "True": "cool"
+      },
+      {
+        "Count": 1,
+        "Pred": "warm",
+        "True": "cool"
+      },
+      {
+        "Count": 0,
+        "Pred": "cold",
+        "True": "hot"
+      },
+      {
+        "Count": 0,
+        "Pred": "cool",
+        "True": "hot"
+      },
+      {
+        "Count": 0,
+        "Pred": "hot",
+        "True": "hot"
+      },
+      {
+        "Count": 0,
+        "Pred": "neutral",
+        "True": "hot"
+      },
+      {
+        "Count": 2,
+        "Pred": "warm",
+        "True": "hot"
+      },
+      {
+        "Count": 3,
+        "Pred": "cold",
+        "True": "neutral"
+      },
+      {
+        "Count": 0,
+        "Pred": "cool",
+        "True": "neutral"
+      },
+      {
+        "Count": 0,
+        "Pred": "hot",
+        "True": "neutral"
+      },
+      {
+        "Count": 4,
+        "Pred": "neutral",
+        "True": "neutral"
+      },
+      {
+        "Count": 7,
+        "Pred": "warm",
+        "True": "neutral"
+      },
+      {
+        "Count": 5,
+        "Pred": "cold",
+        "True": "warm"
+      },
+      {
+        "Count": 0,
+        "Pred": "cool",
+        "True": "warm"
+      },
+      {
+        "Count": 0,
+        "Pred": "hot",
+        "True": "warm"
+      },
+      {
+        "Count": 5,
+        "Pred": "neutral",
+        "True": "warm"
+      },
+      {
+        "Count": 9,
+        "Pred": "warm",
+        "True": "warm"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Count",
+      "scale": {
+        "scheme": "oranges"
+      },
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "True",
+        "type": "nominal"
+      },
+      {
+        "field": "Pred",
+        "type": "nominal"
+      },
+      {
+        "field": "Count",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "Pred",
+      "sort": [
+        "cold",
+        "cool",
+        "hot",
+        "neutral",
+        "warm"
+      ],
+      "type": "nominal"
+    },
+    "y": {
+      "field": "True",
+      "sort": [
+        "cold",
+        "cool",
+        "hot",
+        "neutral",
+        "warm"
+      ],
+      "type": "nominal"
+    }
+  },
+  "height": 250,
+  "mark": {
+    "type": "rect"
+  },
+  "title": "Confusion Matrix — Nature (RF)",
+  "width": 300
+}
